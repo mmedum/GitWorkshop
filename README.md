@@ -5,7 +5,7 @@ Exercise 5-8 should be performed in small groups. Between 2 and 4 people is abou
 ## Exercise 0
 
 1. Download and install Git from [https://git-scm.com/downloads](https://git-scm.com/downloads).
-2. Create an account for [https://bitbucket.org/](https://bitbucket.org/) and [https://gitihub.com](https://gitihub.com).
+2. Create an account for [https://bitbucket.org/](https://bitbucket.org/) and [https://github.com](https://github.com).
 
 ## Exercise 1
 1. Create a new directory and change into it.
